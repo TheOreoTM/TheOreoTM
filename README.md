@@ -14,5 +14,10 @@ const TheOreoTM = {
 ```
 
 <h3>More pointless info</h3>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theoreotm&layout=compact&size_weight=0.5&count_weight=0.5)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=theoreotm&theme=catppuccin_mocha&show_icons=true)
+<a href="/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=theoreotm&theme=catppuccin_mocha" />
+</a>
+<a href="/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theoreotm&theme=catppuccin_mocha&layout=compact&langs_count=6&card_width=320" />
+</a>
+
